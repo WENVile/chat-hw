@@ -1,0 +1,46 @@
+.message {
+background-color: #0066cc;
+    align-self: end;
+    width: 70%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    direction: rtl;
+    align-items: center;
+    border-radius: 20px;
+
+}
+
+.imageAndText {
+    display: flex;
+
+    align-items: center;
+    width: 70%;
+}
+
+.imageAndText img {
+    width: 50px;
+    margin: 21px;
+
+}
+
+.text {
+}
+
+.text:after {
+
+}
+
+.name {
+    padding-bottom: 5%;
+}
+
+.messageText {
+
+
+}
+
+
+.time {
+    padding: 15px;
+}

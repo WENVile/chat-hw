@@ -1,0 +1,26 @@
+.App {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+
+.hw {
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.hwTitle {
+    margin-top: 50px;
+    border-bottom: 1px solid gray;
+    width: 100vw;
+    margin-bottom: 50px;
+}
+
+.p {
+    margin-left: 10%;
+}
